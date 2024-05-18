@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sweun/ros2_ws/install/ros2_socketcan/include/**",
+        "/home/sweun/ros2_ws/install/lidar_dev/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/sweun/ros2_ws/src/ros2_socketcan/ros2_socketcan/include/**",
+        "/home/sweun/ros2_ws/src/ros2_socketcan/socketcan_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
