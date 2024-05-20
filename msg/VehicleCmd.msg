@@ -1,4 +1,5 @@
 std_msgs/Header header
+string id
 bool eps_en               # EPS_En: 0x00: Disabled, 0x01: Enabled
 bool eps_override_ignore  # EPS_Override_ignore: 0x00: Disabled, 0x01: Enabled
 uint8 eps_speed           # EPS_Speed: min: 10, max: 250, default: 150
