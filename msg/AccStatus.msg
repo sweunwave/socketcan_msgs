@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 string id
 bool acc_en_status                # ACC_En_Status: 0x00: Disabled, 0x01: Enabled
 uint8 acc_control_board_status    # ACC_Control_Board_Status: 0: 비정상, 1: 초기상태, 2: 정상동작상태
