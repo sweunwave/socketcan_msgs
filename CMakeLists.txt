@@ -20,6 +20,9 @@ add_message_files(DIRECTORY msg
   VehicleCmd.msg
   VehicleDynamics.msg
   WheelSpd.msg
+  ActSignal.msg
+  PitSignal.msg
+  SigRepair.msg
 )
 
 generate_messages(
