@@ -1,4 +1,4 @@
-std_msgs/Header header
+Header header
 string id
 float32 lat_accel          # LAT_ACCEL: 횡방향 가속도 센서 값 (0.01 * (value - 1023))
 float32 long_accel         # Long_ACCEL: 종방향 가속도 센서 값 (0.01 * (value - 1023))
